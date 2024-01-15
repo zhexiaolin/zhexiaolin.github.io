@@ -1,10 +1,6 @@
 # jemdoc: menu{MENU}{talk.html}
 == Presentations
 
-- On Rosenbaum’s rank-based matching estimator
--- Talk, School of Mathematical Science of Fudan University, Shanghai, Jan 2024
--- Talk, Nanjing University Business School, Nanjing, Dec 2023
-
 - On regression-adjusted imputation estimators of the average treatment effect \n
 -- Talk, Pacific Causal Inference Conference (PCIC), Beijing, Sept 2023
 -- Poster, ICSA 2023 China Conference, Chengdu, July 2023 (NSF Travel Grant)
