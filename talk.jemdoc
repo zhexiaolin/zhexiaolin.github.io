@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}
 == Presentations
 
+- Variance reduction using pre-experiment and in-experiment data \n
+-- Internship Talk, Etsy, Brooklyn, Aug 2024
+
 - On Rosenbaum’s rank-based matching estimator \n
 -- Contributed Talk, Joint Statistical Meetings, Portland, Aug 2024
 -- Invited Talk, SFASA JSM Student Travel Award Presentations, Virtual, June 2024
@@ -20,5 +23,5 @@
 -- Poster, Statistics in the Big Data Era Workshop, Berkeley, June 2022 (Best Poster Award, Travel Grant)
 -- Poster, American Causal Inference Conference (ACIC), Berkeley, May 2022
 
-- Supervised Deep learning with gene Annotation (SDAN)
+- Supervised deep learning with gene annotation for cell classification
 -- Contributed Talk, Joint Statistical Meetings, Washington, D.C., Aug 2022

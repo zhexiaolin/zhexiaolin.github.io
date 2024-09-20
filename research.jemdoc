@@ -3,6 +3,9 @@
 
 == Preprints
 
+- Variance reduction using pre-experiment and in-experiment data\n
+*Zhexiao Lin* and Pablo Crespo, working paper, 2024. /Extended abstract accepted at 2024 CODE@MIT./
+
 - [https://doi.org/10.1101/2024.07.15.603527 Supervised deep learning with gene annotation for cell classification]\n
 *Zhexiao Lin* and Wei Sun, 2024.
 
@@ -18,7 +21,7 @@ Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order), 2023. /"Re
 == Publications
 
 - [https://doi.org/10.1093/biomet/asae004 On the failure of the bootstrap for Chatterjee's rank correlation]\n
-*Zhexiao Lin* and Fang Han. /Biometrika (in press), 2024./
+*Zhexiao Lin* and Fang Han. /Biometrika, 111(3): 1063-1070, 2024./
 
 - [https://doi.org/10.3982/ECTA20598 Estimation based on nearest neighbor matching: from density ratio to average treatment effect]\n
 *Zhexiao Lin*, Peng Ding, and Fang Han. /Econometrica, 91(6): 2187-2217, 2023./
