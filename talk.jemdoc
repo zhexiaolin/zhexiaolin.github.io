@@ -1,10 +1,11 @@
 # jemdoc: menu{MENU}{talk.html}
 == Presentations
 
-- Variance reduction using pre-experiment and in-experiment data \n
+- Variance reduction combining pre-experiment and in-experiment data \n
 -- Internship Talk, Etsy, Brooklyn, Aug 2024
 
 - On Rosenbaum’s rank-based matching estimator \n
+-- Invited Talk, University of Washington Causal Reading Group, Virtual, Oct 2024
 -- Contributed Talk, Joint Statistical Meetings, Portland, Aug 2024
 -- Invited Talk, SFASA JSM Student Travel Award Presentations, Virtual, June 2024
 -- Invited Talk, Institute of Systems Science, Chinese Academy of Sciences, Beijing, Apr 2024
@@ -12,6 +13,8 @@
 -- Invited Talk, School of Mathematical Sciences, Fudan University, Shanghai, Jan 2024
 
 - On regression-adjusted imputation estimators of the average treatment effect \n
+-- Invited Talk, Nanjing University Business School, Virtual, Dec 2023
+-- Invited Talk, Sichuan University Business School, Virtual, Nov 2023
 -- Invited Talk, Pacific Causal Inference Conference (PCIC), Beijing, Sept 2023
 -- Poster, ICSA 2023 China Conference, Chengdu, July 2023 (NSF Travel Grant)
 -- Contributed Talk, NISS-GSN 3rd Annual Graduate Student Research Conference, Virtual, May 2023
