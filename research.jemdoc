@@ -14,8 +14,8 @@
 
 == Publications
 
-- [https://arxiv.org/abs/2212.05424 On regression-adjusted imputation estimators of the average treatment effect]\n
-*Zhexiao Lin* and Fang Han. /Journal of Econometrics, in press./
+- [https://doi.org/10.1016/j.jeconom.2025.106080 On regression-adjusted imputation estimators of the average treatment effect]\n
+*Zhexiao Lin* and Fang Han. /Journal of Econometrics, 251: 106080, 2025./
 
 - [https://doi.org/10.1093/biomet/asae062 On Rosenbaum's rank-based matching estimator]\n
 Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order). /Biometrika, 112(1), 2025./
@@ -31,12 +31,12 @@ Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order). /Biometrik
 
 == Collaborations
 
-- [https://arxiv.org/abs/2405.17764 On the sequence evaluation based on stochastic processes]\n
-Tianhao Zhang\*, *Zhexiao Lin*\*, Zhecheng Sheng\*, Chen Jiang\* and Dongyeop Kang (\*=equal contributions), 2024.
+- [https://arxiv.org/abs/2405.17764 BBScoreV2: Learning Time-Evolution and Latent Alignment from Stochastic Representation]\n
+Tianhao Zhang\*, *Zhexiao Lin*\*, Zhecheng Sheng\*, Chen Jiang\* and Dongyeop Kang (\*=equal contributions). /Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)./
 
 - [https://doi.org/10.1145/3618257.3624806 RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI]\n
 Weitong Li, *Zhexiao Lin*, Mohammad Ishtiaq Ashiq Khan, Emile Aben, Romain Fontugne, Amreesh Phokeer, and Taejoong Chung. /Proceedings of the 2023
-ACM on Internet Measurement Conference, 73-88, 2023./
+ACM on Internet Measurement Conference (IMC 2023)./
 
 - [https://arxiv.org/abs/1912.00315 Topic-aware chatbot using Recurrent Neural Networks and Nonnegative Matrix Factorization]\n
 Y. Guo, N. Hanoian, *Z. Lin*, N. Liskij, H. Lyu, D. Needell, J. Qu, H. Sojico, Y. Wang, Z. Xiong, and Z. Zou, 2019.
