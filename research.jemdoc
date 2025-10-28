@@ -3,8 +3,8 @@
 
 == Preprints
 
-- [https://arxiv.org/abs/2410.09027 Variance reduction combining pre-experiment and in-experiment data]\n
-*Zhexiao Lin* and Pablo Crespo, 2024. /Extended abstract accepted at 2024 CODE@MIT./
+- [https://arxiv.org/abs/2510.22864 Unifying regression-based and design-based causal inference in time-series experiments]\n
+*Zhexiao Lin* and Peng Ding, 2025.
 
 - [https://doi.org/10.1101/2024.07.15.603527 Supervised deep learning with gene annotation for cell classification]\n
 *Zhexiao Lin* and Wei Sun, 2024. (Winner of the ASA Biopharmaceutical Section Student Paper Award)
@@ -31,8 +31,14 @@ Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order). /Biometrik
 
 == Collaborations
 
+- [https://arxiv.org/abs/2510.05566 Domain-Shift-Aware Conformal Prediction for Large Language Models]\n
+*Zhexiao Lin*, Yuanyuan Li, Neeraj Sarna, Yuanyuan Gao, and Michael von Gablenz, 2025.
+
+- [https://arxiv.org/abs/2410.09027 Variance reduction combining pre-experiment and in-experiment data]\n
+*Zhexiao Lin* and Pablo Crespo, 2024. /Extended abstract accepted at 2024 CODE@MIT./
+
 - [https://arxiv.org/abs/2405.17764 BBScoreV2: Learning Time-Evolution and Latent Alignment from Stochastic Representation]\n
-Tianhao Zhang\*, *Zhexiao Lin*\*, Zhecheng Sheng\*, Chen Jiang\* and Dongyeop Kang (\*=equal contributions). /Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)./
+Tianhao Zhang\*, Zhecheng Sheng\*, *Zhexiao Lin*\*, Chen Jiang\*, and Dongyeop Kang (\*=equal contributions). /Conference on Empirical Methods in Natural Language Processing (EMNLP 2025)./
 
 - [https://doi.org/10.1145/3618257.3624806 RoVista: Measuring and Understanding the Route Origin Validation (ROV) in RPKI]\n
 Weitong Li, *Zhexiao Lin*, Mohammad Ishtiaq Ashiq Khan, Emile Aben, Romain Fontugne, Amreesh Phokeer, and Taejoong Chung. /Proceedings of the 2023
