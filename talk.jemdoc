@@ -1,6 +1,9 @@
 # jemdoc: menu{MENU}{talk.html}
 == Presentations
 
+- Introducing the b-value: combining unbiased and biased estimators from a sensitivity analysis perspective
+-- Invited Talk, North Carolina State University  CIMA Group, Virtual, Mar 2026
+
 - Unifying regression-based and design-based causal inference in time-series experiments \n
 -- Invited Talk, University of Washington Causal Reading Group, Virtual, Feb 2026
 -- Invited Talk, School of Economics \& WISE \& Chow Institute, Xiamen University, Xiamen, Dec 2025
