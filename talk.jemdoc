@@ -2,9 +2,13 @@
 == Presentations
 
 - Introducing the b-value: combining unbiased and biased estimators from a sensitivity analysis perspective
+-- Poster, The 11th Workshop on Biostatistics and Bioinformatics, Atlanta, GA, May 2026
+-- Invited Talk, International Seminar on Selective Inference, Virtual, Apr 2026
 -- Invited Talk, North Carolina State University  CIMA Group, Virtual, Mar 2026
 
 - Unifying regression-based and design-based causal inference in time-series experiments \n
+-- Invited Talk, Conference on Statistical Learning and Data Science (SLDS), New York City, NY, Nov 2026
+-- Poster, Frontiers in Computational Precision Health (FiCPH) Conference, Berkeley, CA, Apr 2026
 -- Invited Talk, University of Washington Causal Reading Group, Virtual, Feb 2026
 -- Invited Talk, School of Economics \& WISE \& Chow Institute, Xiamen University, Xiamen, Dec 2025
 -- Invited Talk, IMS International Conference on Statistics and Data Science (ICSDS), Seville, Dec 2025
@@ -12,13 +16,14 @@
 -- Invited Talk, 2025 NBER-NSF Time Series Conference, New Brunswick, NJ, Sept 2025
 -- Poster, Berkeley Statistics Annual Research Symposium (BSTARS), Berkeley, CA, Sept 2025
 -- Contributed Talk, Joint Statistical Meetings (JSM), Nashville, TN, Aug 2025
--- Poster, Two Sigma PhD Poster Session, New York, NY, July 2025
+-- Poster, Two Sigma PhD Poster Session, New York City, NY, July 2025
 -- Poster, The 10th Workshop on Biostatistics and Bioinformatics, Atlanta, GA, May 2025 (Best Poster Award)
 -- Poster, The Past, Present and Future of Statistics in the Era of AI, Washington, D.C., May 2025
--- Poster, Jane Street Graduate Research Fellowship Workshop, New York, NY, May 2025
+-- Poster, Jane Street Graduate Research Fellowship Workshop, New York City, NY, May 2025
 -- Poster, Experimental Designs in the Era of Artificial Intelligence Workshop, Berkeley, CA, Mar 2025
 
 - Variance reduction combining pre-experiment and in-experiment data \n
+-- Poster, Conference on Causal Learning and Reasoning, Cambridge, MA, Apr 2026
 -- Poster, Conference on Digital Experimentation @ MIT (CODE@MIT), Cambridge, MA, Oct 2024
 -- Internship Talk, Etsy, Brooklyn, NY, Aug 2024
 
@@ -37,7 +42,7 @@
 -- Invited Talk, Pacific Causal Inference Conference (PCIC), Beijing, Sept 2023
 -- Poster, ICSA 2023 China Conference, Chengdu, July 2023
 -- Contributed Talk, NISS-GSN 3rd Annual Graduate Student Research Conference, Virtual, May 2023
--- Invited Talk, Jane Street Graduate Research Fellowship Workshop, New York, NY, Apr 2023
+-- Invited Talk, Jane Street Graduate Research Fellowship Workshop, New York City, NY, Apr 2023
 
 - Estimation based on nearest neighbor matching: from density ratio to average treatment effect \n
 -- Poster, CLIMB Retreat, Berkeley, CA, Nov 2022
