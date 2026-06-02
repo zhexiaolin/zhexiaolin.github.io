@@ -9,13 +9,13 @@
 - [https://arxiv.org/abs/2510.22864 Unifying regression-based and design-based causal inference in time-series experiments]\n
 *Zhexiao Lin* and Peng Ding, 2025.
 
-- [https://doi.org/10.1101/2024.07.15.603527 Supervised deep learning with gene annotation for cell classification]\n
-*Zhexiao Lin*, Yuanyuan Gao, and Wei Sun, 2024. /"Revision" at PLOS Computational Biology./
-
 - [https://arxiv.org/abs/2204.08031 Limit theorems of Chatterjee's rank correlation]\n
 *Zhexiao Lin* and Fang Han, 2022. /"R&R" at Annals of Statistics./
 
 == Journal Publications
+
+- [https://doi.org/10.1371/journal.pcbi.1014327 Supervised deep learning with gene functional annotation for cell classification]\n
+*Zhexiao Lin*, Yuanyuan Gao, and Wei Sun. /PLOS Computational Biology, 22(6): e1014327, 2026./
 
 - [https://doi.org/10.1016/j.jeconom.2025.106080 On regression-adjusted imputation estimators of the average treatment effect]\n
 *Zhexiao Lin* and Fang Han. /Journal of Econometrics, 251: 106080, 2025./
@@ -33,6 +33,9 @@ Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order). /Biometrik
 *Zhexiao Lin* and Fang Han. /Biometrika, 110(2): 283-299, 2023./ (Most Read Article in the Journal)
 
 == Conference Publications
+
+- [https://arxiv.org/abs/2605.14343 Nearest-Neighbor Radii under Dependent Sampling]\n
+Yuanyuan Gao, Yilong Hou, and *Zhexiao Lin* (alphabetical order), 2026.
 
 - [https://arxiv.org/abs/2510.05566 Domain-Shift-Aware Conformal Prediction for Large Language Models]\n
 *Zhexiao Lin*, Yuanyuan Li, Neeraj Sarna, Yuanyuan Gao, and Michael von Gablenz. /International Conference on Machine Learning (ICML), 2026./
