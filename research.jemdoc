@@ -7,7 +7,7 @@
 *Zhexiao Lin*, Peter J. Bickel, and Peng Ding, 2026.
 
 - [https://arxiv.org/abs/2510.22864 Unifying regression-based and design-based causal inference in time-series experiments]\n
-*Zhexiao Lin* and Peng Ding, 2025.
+*Zhexiao Lin* and Peng Ding, 2025. /"Revision" at Journal of the American Statistical Association./
 
 - [https://arxiv.org/abs/2204.08031 Limit theorems of Chatterjee's rank correlation]\n
 *Zhexiao Lin* and Fang Han, 2022. /"R&R" at Annals of Statistics./
@@ -35,7 +35,7 @@ Matias D. Cattaneo, Fang Han, and *Zhexiao Lin* (alphabetical order). /Biometrik
 == Conference Publications
 
 - [https://arxiv.org/abs/2605.14343 Nearest-Neighbor Radii under Dependent Sampling]\n
-Yuanyuan Gao, Yilong Hou, and *Zhexiao Lin* (alphabetical order), 2026.
+Yuanyuan Gao, Yilong Hou, and *Zhexiao Lin* (alphabetical order). /Neural Information Processing Systems (NeurIPS), 2026./
 
 - [https://arxiv.org/abs/2510.05566 Domain-Shift-Aware Conformal Prediction for Large Language Models]\n
 *Zhexiao Lin*, Yuanyuan Li, Neeraj Sarna, Yuanyuan Gao, and Michael von Gablenz. /International Conference on Machine Learning (ICML), 2026./
@@ -51,3 +51,8 @@ Weitong Li, *Zhexiao Lin*, Mohammad Ishtiaq Ashiq Khan, Emile Aben, Romain Fontu
 
 - [https://arxiv.org/abs/1912.00315 Topic-aware chatbot using Recurrent Neural Networks and Nonnegative Matrix Factorization]\n
 Y. Guo, N. Hanoian, *Z. Lin*, N. Liskij, H. Lyu, D. Needell, J. Qu, H. Sojico, Y. Wang, Z. Xiong, and Z. Zou, 2019.
+
+== Dissertation
+
+- [https://escholarship.org/uc/item/27t6p17q Topics in Causal Inference: Data Fusion, Time-Series Experiments, and Matching Estimators]\n
+*Zhexiao Lin*. /UC Berkeley, 2026./
